@@ -11,7 +11,7 @@
         <h2>BMW <img class="one" src="https://i.imgur.com/dHTQLej.png"></h2>
         <a href="https://serey0000.github.io/krutoicarshowroommfive/"><img src="https://i.imgur.com/P5jMdtA.png"></a>
         <a href="https://serey0000.github.io/krutoicarshowroomxfive/"><img src="https://i.imgur.com/fYQNsot.png"></a>
-        <a href="https://serey0000.github.io/krutoicarshowroomsevenseries/"><img src=https://i.imgur.com/nqlLxXi.png""></a>
+        <a href="https://serey0000.github.io/krutoicarshowroomsevenseries/"><img src=https://i.imgur.com/nqlLxXi.png"></a>
         
     </main>
     <footer>
